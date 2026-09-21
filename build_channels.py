@@ -80,8 +80,31 @@ def filter_live_streams(candidates, concurrency, timeout):
     return live_ids
 
 
+def load_existing_numbers(output_path):
+    """Best-effort read of a previously-written channels.json so channel
+    `number`s survive regeneration. Numbers are what the app's numeric
+    keypad entry and on-screen banner use — if they shifted every time the
+    list was rebuilt (e.g. because a dead stream earlier in the list got
+    dropped and everything after it shifted up by one), "channel 12" would
+    mean something different every day. Assigning each id a number once and
+    reusing it forever avoids that, independent of ordering or of channels
+    going enabled=false and back.
+    """
+    try:
+        with open(output_path, "r", encoding="utf-8") as f:
+            old_data = json.load(f)
+    except (OSError, ValueError):
+        return {}
+    numbers = {}
+    for ch in old_data.get("channels", []):
+        if isinstance(ch.get("number"), int) and ch.get("id"):
+            numbers[ch["id"]] = ch["number"]
+    return numbers
+
+
 def build(languages, categories_filter, require_subtitles_for_non_target,
-          verify_streams=False, verify_concurrency=40, verify_timeout=7):
+          verify_streams=False, verify_concurrency=40, verify_timeout=7,
+          existing_numbers=None):
     print("Fetching channels.json ...", file=sys.stderr)
     channels = fetch_json(CHANNELS_URL)
     print("Fetching streams.json ...", file=sys.stderr)
@@ -110,6 +133,8 @@ def build(languages, categories_filter, require_subtitles_for_non_target,
         guides_by_channel.setdefault(g.get("channel"), []).append(g)
 
     out_channels = []
+    existing_numbers = existing_numbers or {}
+    next_number = (max(existing_numbers.values()) + 1) if existing_numbers else 1
 
     for ch in channels:
         ch_id = ch.get("id")
@@ -148,8 +173,15 @@ def build(languages, categories_filter, require_subtitles_for_non_target,
 
         primary_lang = next(iter(languages_for_channel), "en")
 
+        if ch_id in existing_numbers:
+            number = existing_numbers[ch_id]
+        else:
+            number = next_number
+            next_number += 1
+
         out_channels.append({
             "id": ch_id,
+            "number": number,
             "name": ch.get("name"),
             "streamUrl": ch_streams[0].get("url"),
             "logoUrl": logo_url,
@@ -160,15 +192,26 @@ def build(languages, categories_filter, require_subtitles_for_non_target,
             "enabled": True,
         })
 
+    out_channels.sort(key=lambda ch: ch["number"])
+
     if verify_streams:
         print(f"Verifying {len(out_channels)} stream URLs ({verify_concurrency} at a time, "
               f"{verify_timeout}s timeout each) — this takes a few minutes...", file=sys.stderr)
         candidates = [(ch["id"], ch["streamUrl"]) for ch in out_channels]
         live_ids = filter_live_streams(candidates, verify_concurrency, verify_timeout)
-        before = len(out_channels)
-        out_channels = [ch for ch in out_channels if ch["id"] in live_ids]
-        print(f"Dropped {before - len(out_channels)} dead/unreachable streams "
-              f"({len(out_channels)} remain).", file=sys.stderr)
+        # Mark dead streams unavailable rather than dropping them, so a
+        # channel's number and position stay put while its source is dark
+        # and it simply reappears (same number) once verified live again —
+        # see load_existing_numbers() above for why that matters.
+        newly_dead = 0
+        for ch in out_channels:
+            live = ch["id"] in live_ids
+            if ch["enabled"] and not live:
+                newly_dead += 1
+            ch["enabled"] = live
+        still_live = sum(1 for ch in out_channels if ch["enabled"])
+        print(f"{newly_dead} streams unreachable this run; {still_live}/{len(out_channels)} "
+              f"channels currently enabled.", file=sys.stderr)
 
     return {
         "schemaVersion": 1,
@@ -204,6 +247,7 @@ def main():
         verify_streams=args.verify_streams,
         verify_concurrency=args.verify_concurrency,
         verify_timeout=args.verify_timeout,
+        existing_numbers=load_existing_numbers(args.output),
     )
     data["updatedAt"] = datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z")
 
