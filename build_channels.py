@@ -22,8 +22,10 @@ Note: iptv-org uses ISO 639-2/3 codes (e.g. "eng", "spa"), not ISO 639-1
 """
 
 import argparse
+import concurrent.futures
 import json
 import sys
+import urllib.error
 import urllib.request
 
 CHANNELS_URL = "https://iptv-org.github.io/api/channels.json"
@@ -38,7 +40,48 @@ def fetch_json(url):
         return json.load(resp)
 
 
-def build(languages, categories_filter, require_subtitles_for_non_target):
+def stream_is_live(url, timeout):
+    """Best-effort liveness check: GET the URL and read a few bytes.
+
+    iptv-org's list has significant link rot (dead hosts, geo-blocks,
+    expired paths) — see free-resources.md section 1. This isn't a
+    guarantee the stream will actually play (geo-blocking in particular
+    can pass here and still fail for a real viewer in a different
+    region), just a cheap filter for streams that are unambiguously dead.
+    """
+    req = urllib.request.Request(
+        url, headers={"User-Agent": "Mozilla/5.0 (compatible; StreamCheck/1.0)"}
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            resp.read(1024)
+            return 200 <= resp.status < 300
+    except Exception:
+        return False
+
+
+def filter_live_streams(candidates, concurrency, timeout):
+    """candidates: list of (channel_id, url). Returns the set of channel_ids
+    whose stream responded successfully."""
+    live_ids = set()
+    total = len(candidates)
+    done = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=concurrency) as pool:
+        future_to_id = {
+            pool.submit(stream_is_live, url, timeout): ch_id
+            for ch_id, url in candidates
+        }
+        for future in concurrent.futures.as_completed(future_to_id):
+            done += 1
+            if done % 100 == 0:
+                print(f"  verified {done}/{total} streams...", file=sys.stderr)
+            if future.result():
+                live_ids.add(future_to_id[future])
+    return live_ids
+
+
+def build(languages, categories_filter, require_subtitles_for_non_target,
+          verify_streams=False, verify_concurrency=40, verify_timeout=7):
     print("Fetching channels.json ...", file=sys.stderr)
     channels = fetch_json(CHANNELS_URL)
     print("Fetching streams.json ...", file=sys.stderr)
@@ -117,6 +160,16 @@ def build(languages, categories_filter, require_subtitles_for_non_target):
             "enabled": True,
         })
 
+    if verify_streams:
+        print(f"Verifying {len(out_channels)} stream URLs ({verify_concurrency} at a time, "
+              f"{verify_timeout}s timeout each) — this takes a few minutes...", file=sys.stderr)
+        candidates = [(ch["id"], ch["streamUrl"]) for ch in out_channels]
+        live_ids = filter_live_streams(candidates, verify_concurrency, verify_timeout)
+        before = len(out_channels)
+        out_channels = [ch for ch in out_channels if ch["id"] in live_ids]
+        print(f"Dropped {before - len(out_channels)} dead/unreachable streams "
+              f"({len(out_channels)} remain).", file=sys.stderr)
+
     return {
         "schemaVersion": 1,
         "updatedAt": None,  # fill in with current UTC timestamp at write time
@@ -132,6 +185,15 @@ def main():
     parser.add_argument("--include-non-target-without-subtitles", action="store_true",
                          help="Include channels outside --languages even without confirmed subtitles "
                               "(off by default, matching this app's language-filter rule)")
+    parser.add_argument("--verify-streams", action="store_true",
+                         help="GET each candidate stream URL and drop ones that don't respond. "
+                              "iptv-org's list has significant link rot — see free-resources.md "
+                              "section 1 — so this is recommended before publishing. Adds a few "
+                              "minutes to the run.")
+    parser.add_argument("--verify-concurrency", type=int, default=40,
+                         help="Parallel stream checks when --verify-streams is set (default: 40)")
+    parser.add_argument("--verify-timeout", type=float, default=7,
+                         help="Per-stream timeout in seconds when --verify-streams is set (default: 7)")
     args = parser.parse_args()
 
     import datetime
@@ -139,8 +201,11 @@ def main():
         languages=args.languages,
         categories_filter=None,
         require_subtitles_for_non_target=not args.include_non_target_without_subtitles,
+        verify_streams=args.verify_streams,
+        verify_concurrency=args.verify_concurrency,
+        verify_timeout=args.verify_timeout,
     )
-    data["updatedAt"] = datetime.datetime.utcnow().isoformat() + "Z"
+    data["updatedAt"] = datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z")
 
     with open(args.output, "w") as f:
         json.dump(data, f, indent=2)

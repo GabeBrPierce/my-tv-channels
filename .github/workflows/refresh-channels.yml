@@ -1,0 +1,36 @@
+name: Refresh channels.json
+
+on:
+  schedule:
+    # Daily at 06:17 UTC. Off the hour to avoid the top-of-hour GitHub
+    # Actions scheduling crunch.
+    - cron: "17 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Rebuild channels.json (verified streams only)
+        run: python build_channels.py --languages eng --output channels.json --verify-streams
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- channels.json; then
+            echo "No changes to channels.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels.json
+          git commit -m "Refresh channels.json ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git push
