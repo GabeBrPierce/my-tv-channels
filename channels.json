@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T14:14:55.734805Z",
+  "updatedAt": "2026-11-12T15:07:59.554438Z",
   "channels": [
     {
       "id": "00sReplay.us",
@@ -21,7 +21,7 @@
       "streamUrl": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/SZtJfOG.png",
       "category": "auto",
-      "language": "eng",
+      "language": "bul",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -81,7 +81,7 @@
       "streamUrl": "https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png",
       "category": "series",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -204,7 +204,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "30ASidewalks.us",
@@ -405,7 +405,7 @@
       "streamUrl": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
       "logoUrl": "https://i.imgur.com/im3g7T2.png",
       "category": "general",
-      "language": "swa",
+      "language": "kik",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -597,7 +597,7 @@
       "streamUrl": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/YlDFir7.jpg",
       "category": "general",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -849,7 +849,7 @@
       "streamUrl": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540",
       "category": "news",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -1029,7 +1029,7 @@
       "streamUrl": "https://acheloostv.streamings.gr/live/stream/index.m3u8",
       "logoUrl": "https://i.imgur.com/5SVMxcu.png",
       "category": "general",
-      "language": "eng",
+      "language": "ell",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -1113,7 +1113,7 @@
       "streamUrl": "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/t7CaTu3.png",
       "category": "general",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "sat.tv",
       "enabled": false
@@ -1161,7 +1161,7 @@
       "streamUrl": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/WIaRpiS.png",
       "category": "news",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -1173,7 +1173,7 @@
       "streamUrl": "https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8",
       "logoUrl": "https://i.imgur.com/spQgX7X.png",
       "category": "news",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -1209,7 +1209,7 @@
       "streamUrl": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/fWlLvRA.png",
       "category": "general",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -1257,7 +1257,7 @@
       "streamUrl": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/hVNIwgE.png",
       "category": "general",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -1269,7 +1269,7 @@
       "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
       "logoUrl": "https://i.imgur.com/K81vNbk.png",
       "category": "religious",
-      "language": "eng",
+      "language": "pan",
       "hasSubtitles": false,
       "epgSource": "sky.com",
       "enabled": true
@@ -1425,7 +1425,7 @@
       "streamUrl": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
       "category": "news",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "aljazeera.com",
       "enabled": false
@@ -1449,7 +1449,7 @@
       "streamUrl": "https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8",
       "logoUrl": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg",
       "category": "movies",
-      "language": "eng",
+      "language": "fre",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -1485,7 +1485,7 @@
       "streamUrl": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/3pUik3b.png",
       "category": "religious",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -1497,7 +1497,7 @@
       "streamUrl": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/3pUik3b.png",
       "category": "religious",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -1512,7 +1512,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "AlwaysFunnyVideos.us",
@@ -1569,7 +1569,7 @@
       "streamUrl": "http://212.70.131.37:8000/play/a05k",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
       "category": "movies",
-      "language": "por",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "gatotv.com",
       "enabled": true
@@ -1596,7 +1596,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "AmericasNextTopModel.us",
@@ -1665,10 +1665,10 @@
       "streamUrl": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/NTlC6e7.png",
       "category": "general",
-      "language": "eng",
+      "language": "hye",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "AMGTV.us",
@@ -1725,7 +1725,7 @@
       "streamUrl": "https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8",
       "logoUrl": "https://i.imgur.com/6ot2lmd.png",
       "category": "series",
-      "language": "ita",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -1749,7 +1749,7 @@
       "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/qKLEGU7.png",
       "category": "religious",
-      "language": "zho",
+      "language": "nep",
       "hasSubtitles": false,
       "epgSource": "sat.tv",
       "enabled": true
@@ -1797,7 +1797,7 @@
       "streamUrl": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
       "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
       "category": "animation",
-      "language": "tha",
+      "language": "fil",
       "hasSubtitles": false,
       "epgSource": "clickthecity.com",
       "enabled": true
@@ -2037,7 +2037,7 @@
       "streamUrl": "https://stream.asiatvnet.com/1/live/master.m3u8",
       "logoUrl": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
       "category": "entertainment,family,general",
-      "language": "sin",
+      "language": "tam",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -2313,7 +2313,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c0925c738ecd000882450a/colorLogoPNG.png",
       "category": "comedy",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -2337,7 +2337,7 @@
       "streamUrl": "http://202.150.165.66:8088/play/301-AXN/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "category": "movies,series",
-      "language": "tha",
+      "language": "fil",
       "hasSubtitles": false,
       "epgSource": "clickthecity.com",
       "enabled": true
@@ -2349,7 +2349,7 @@
       "streamUrl": "http://85.14.32.26:8800/udp/239.100.10.17:5000",
       "logoUrl": "https://i.imgur.com/Peo1QiZ.png",
       "category": "movies",
-      "language": "pol",
+      "language": "bul",
       "hasSubtitles": false,
       "epgSource": "m.tv.sms.cz",
       "enabled": true
@@ -2361,7 +2361,7 @@
       "streamUrl": "http://85.11.144.9:4222/AXN",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
       "category": "movies",
-      "language": "ces",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -2385,7 +2385,7 @@
       "streamUrl": "http://85.14.32.26:8800/udp/239.100.10.18:5000",
       "logoUrl": "https://i.imgur.com/47IKxmt.png",
       "category": "entertainment",
-      "language": "por",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "m.tv.sms.cz",
       "enabled": true
@@ -2409,7 +2409,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
       "logoUrl": "https://i.imgur.com/WxLHBwu.png",
       "category": "kids",
-      "language": "kor",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "gatotv.com",
       "enabled": false
@@ -2433,7 +2433,7 @@
       "streamUrl": "http://38.44.109.41:8003/play/a0eh",
       "logoUrl": "https://i.imgur.com/4BDJ5FT.png",
       "category": "kids",
-      "language": "ita",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "digiturk.com.tr",
       "enabled": false
@@ -2457,7 +2457,7 @@
       "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/t6Lmntr.png",
       "category": "general",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "sat.tv",
       "enabled": true
@@ -2469,7 +2469,7 @@
       "streamUrl": "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8",
       "logoUrl": "https://i.imgur.com/d8x7c8i.png",
       "category": "sports",
-      "language": "eng",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -2589,7 +2589,7 @@
       "streamUrl": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/HctHhLL.png",
       "category": "series",
-      "language": "spa",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -2601,7 +2601,7 @@
       "streamUrl": "http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/nGSsUd4.png",
       "category": "documentary",
-      "language": "cze",
+      "language": "vie",
       "hasSubtitles": false,
       "epgSource": "content.astro.com.my",
       "enabled": true
@@ -3189,7 +3189,7 @@
       "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/BP7tY6F.png",
       "category": "news",
-      "language": "rus",
+      "language": "bel",
       "hasSubtitles": false,
       "epgSource": "m.tv.sms.cz",
       "enabled": true
@@ -3213,7 +3213,7 @@
       "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
       "logoUrl": "https://i.imgur.com/1Xzxsgl.png",
       "category": "news",
-      "language": "tam",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "rtmklik.rtm.gov.my",
       "enabled": true
@@ -3825,7 +3825,7 @@
       "streamUrl": "https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/63c6a27a4faf1c0007b48f7b/colorLogoPNG.png",
       "category": "cooking,lifestyle",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -3837,7 +3837,7 @@
       "streamUrl": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
       "logoUrl": "https://i.imgur.com/scDKOLS.png",
       "category": "movies",
-      "language": "rus",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -3948,7 +3948,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvguide.com",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "Breinholts.se",
@@ -3957,7 +3957,7 @@
       "streamUrl": "https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/660d6c0094db140008fe2f74/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -4053,7 +4053,7 @@
       "streamUrl": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png",
       "category": "sports",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -4116,7 +4116,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "BukeddeTV2.ug",
@@ -4329,7 +4329,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "nor",
+      "language": "swe",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -4365,7 +4365,7 @@
       "streamUrl": "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/viB0FS2.png",
       "category": "general",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -4926,13 +4926,13 @@
       "id": "CCTV4America.cn",
       "number": 427,
       "name": "CCTV-4 America",
-      "streamUrl": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+      "streamUrl": "https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8",
       "logoUrl": "https://i.imgur.com/gBbLyqh.png",
       "category": "general",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "distro.tv",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "CCTV4Asia.cn",
@@ -4941,7 +4941,7 @@
       "streamUrl": "http://74.91.26.218:82/live/cctv4hd.m3u8",
       "logoUrl": "https://i.imgur.com/tWt4Wou.png",
       "category": "general",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "content.astro.com.my",
       "enabled": true
@@ -4953,7 +4953,7 @@
       "streamUrl": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/HGLFdfk.png",
       "category": "general",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
       "enabled": true
@@ -5061,7 +5061,7 @@
       "streamUrl": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
       "logoUrl": "https://i.imgur.com/qBmomnF.png",
       "category": "business",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "distro.tv",
       "enabled": true
@@ -5145,7 +5145,7 @@
       "streamUrl": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png",
       "category": "news",
-      "language": "eng",
+      "language": "kur",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -5169,10 +5169,10 @@
       "streamUrl": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8",
       "logoUrl": "https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",
       "category": "culture",
-      "language": "ben",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "ChannelS.uk",
@@ -5181,7 +5181,7 @@
       "streamUrl": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/hJxFLvF.png",
       "category": "culture",
-      "language": "ben",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "sky.com",
       "enabled": true
@@ -5217,7 +5217,7 @@
       "streamUrl": "https://cdn.qd.je/163189/chu",
       "logoUrl": "https://i.imgur.com/9MzEjoY.png",
       "category": "entertainment",
-      "language": "tha",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "mewatch.sg",
       "enabled": true
@@ -5301,7 +5301,7 @@
       "streamUrl": "https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png",
       "category": "comedy",
-      "language": "nor",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -5385,7 +5385,7 @@
       "streamUrl": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8",
       "logoUrl": "https://i.imgur.com/vSgY3CD.png",
       "category": "documentary,travel,culture",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "distro.tv",
       "enabled": true
@@ -5433,7 +5433,7 @@
       "streamUrl": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
       "logoUrl": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png",
       "category": "movies",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -5457,7 +5457,7 @@
       "streamUrl": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
       "category": "movies",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "directv.com.uy",
       "enabled": true
@@ -5928,7 +5928,7 @@
       "language": "tgl",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "ClubbingTV.us",
@@ -5937,7 +5937,7 @@
       "streamUrl": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
       "logoUrl": "https://i.imgur.com/MyiA92q.png",
       "category": "music",
-      "language": "ita",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
       "enabled": false
@@ -6249,7 +6249,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8",
       "logoUrl": "https://i.imgur.com/9y6TtjF.png",
       "category": "comedy",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -6633,7 +6633,7 @@
       "streamUrl": "https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/cQWNh3L.png",
       "category": "general",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
       "enabled": true
@@ -6681,7 +6681,7 @@
       "streamUrl": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png",
       "category": "series",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -6717,7 +6717,7 @@
       "streamUrl": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
       "category": "series",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -7233,7 +7233,7 @@
       "streamUrl": "https://fta.ektv.in/live/672/master.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540",
       "category": "general",
-      "language": "eng",
+      "language": "asm",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": false
@@ -7293,7 +7293,7 @@
       "streamUrl": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
       "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
       "category": "sports",
-      "language": "ben",
+      "language": "tel",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -7305,7 +7305,7 @@
       "streamUrl": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png?lock=720x540",
       "category": "general",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": false
@@ -7353,7 +7353,7 @@
       "streamUrl": "https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8",
       "logoUrl": "https://i.imgur.com/vhSzfDC.png",
       "category": "series",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -7362,13 +7362,13 @@
       "id": "DellaTV.it",
       "number": 635,
       "name": "DellaTV",
-      "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+      "streamUrl": "https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/6lvQ3Xz.png",
       "category": "general",
       "language": "jpn",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "DeluxeDance.de",
@@ -7401,7 +7401,7 @@
       "streamUrl": "https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -7521,7 +7521,7 @@
       "streamUrl": "https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/660d6bc10cd4630008f4a25a/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -7533,7 +7533,7 @@
       "streamUrl": "https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/69172a4fcf4a1101befdd894/colorLogoPNG_1770030924752.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -7545,7 +7545,7 @@
       "streamUrl": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/VZhag2x.png",
       "category": "news",
-      "language": "tur",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -7569,7 +7569,7 @@
       "streamUrl": "https://ghaasiflu.online/Dijlah/index.m3u8",
       "logoUrl": "https://i.imgur.com/kyzH3G5.png",
       "category": "news",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "elcinema.com",
       "enabled": true
@@ -7581,7 +7581,7 @@
       "streamUrl": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
       "logoUrl": "https://i.imgur.com/wr2bLaA.png",
       "category": "documentary,culture",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "distro.tv",
       "enabled": true
@@ -7593,22 +7593,10 @@
       "streamUrl": "http://87.120.179.187:8000/play/a010",
       "logoUrl": "https://i.imgur.com/UxrAiAe.png",
       "category": "kids",
-      "language": "eng",
+      "language": "bul",
       "hasSubtitles": false,
       "epgSource": "tv.dir.bg",
       "enabled": true
-    },
-    {
-      "id": "DisneyChannel.in",
-      "number": 656,
-      "name": "Disney Channel",
-      "streamUrl": "http://66.102.126.10:8000/play/a013/index.m3u8",
-      "logoUrl": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg",
-      "category": "kids",
-      "language": "tel",
-      "hasSubtitles": false,
-      "epgSource": "airtelxstream.in",
-      "enabled": false
     },
     {
       "id": "DisneyChannel.pl",
@@ -7677,7 +7665,7 @@
       "streamUrl": "https://stream.diyatvinc.com/diya.m3u8",
       "logoUrl": "https://i.imgur.com/1fC7tqH.png",
       "category": "general",
-      "language": "pan",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -7881,7 +7869,7 @@
       "streamUrl": "https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png",
       "category": "series",
-      "language": "nor",
+      "language": "swe",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -8085,7 +8073,7 @@
       "streamUrl": "https://stream.cisk.tech/drpal/index.m3u8",
       "logoUrl": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Dr%20Pal%20TV.jpeg",
       "category": "general",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -8205,7 +8193,7 @@
       "streamUrl": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
       "logoUrl": "https://i.imgur.com/MNKkgfa.png",
       "category": "news",
-      "language": "deu",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "anteltv.com.uy",
       "enabled": true
@@ -8244,7 +8232,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "EBNTV.ke",
@@ -8277,7 +8265,7 @@
       "streamUrl": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
       "logoUrl": "https://i.imgur.com/DIIRPNN.png",
       "category": "legislative",
-      "language": "eng",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -8289,7 +8277,7 @@
       "streamUrl": "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8",
       "logoUrl": "https://i.imgur.com/zqbK2IB.png",
       "category": "culture",
-      "language": "amh",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -8313,7 +8301,7 @@
       "streamUrl": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
       "logoUrl": "https://i.imgur.com/7V012zQ.png",
       "category": "legislative",
-      "language": "mkd",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -8340,7 +8328,7 @@
       "language": "tam",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "EKeepingUp.us",
@@ -8505,7 +8493,7 @@
       "streamUrl": "https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVSR.png?lock=720x540",
       "category": "kids",
-      "language": "tel",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -8517,7 +8505,7 @@
       "streamUrl": "https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0032DV5H.png?lock=720x540",
       "category": "entertainment",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -8529,7 +8517,7 @@
       "streamUrl": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
       "logoUrl": "https://i.imgur.com/bTR0Huw.png",
       "category": "general",
-      "language": "tir",
+      "language": "tig",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -8649,7 +8637,7 @@
       "streamUrl": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/sua70RO.png",
       "category": "religious",
-      "language": "spa",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "dstv.com",
       "enabled": true
@@ -8697,7 +8685,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8",
       "logoUrl": "https://i.imgur.com/VIpQJxL.png",
       "category": "comedy",
-      "language": "ita",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -8769,7 +8757,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c19c8c9863900007acaa57/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -8949,7 +8937,7 @@
       "streamUrl": "https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png",
       "category": "series",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -8973,7 +8961,7 @@
       "streamUrl": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/68ac5403de4a734954b5ab75/colorLogoPNG_1756124331035.png",
       "category": "sports",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -9036,7 +9024,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "FEVATV.ca",
@@ -9069,7 +9057,7 @@
       "streamUrl": "https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
       "category": "sports",
-      "language": "ita",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -9153,7 +9141,7 @@
       "streamUrl": "http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8",
       "logoUrl": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
       "category": "movies",
-      "language": "cze",
+      "language": "pol",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -9165,7 +9153,7 @@
       "streamUrl": "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8",
       "logoUrl": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
       "category": "movies",
-      "language": "cze",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -9189,7 +9177,7 @@
       "streamUrl": "https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8",
       "logoUrl": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
       "category": "movies",
-      "language": "cze",
+      "language": "pol",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -9201,7 +9189,7 @@
       "streamUrl": "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8",
       "logoUrl": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
       "category": "movies",
-      "language": "cze",
+      "language": "bul",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -9213,7 +9201,7 @@
       "streamUrl": "http://213.91.179.28:8000/play/a06i",
       "logoUrl": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
       "category": "movies",
-      "language": "nld",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -9225,7 +9213,7 @@
       "streamUrl": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
       "logoUrl": "https://i.imgur.com/3wqeGXM.png",
       "category": "animation",
-      "language": "jap",
+      "language": "deu",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -9381,7 +9369,7 @@
       "streamUrl": "https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -9393,7 +9381,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c19dcefbb4b50007d242e1/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -9429,7 +9417,7 @@
       "streamUrl": "https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8",
       "logoUrl": "https://i.imgur.com/1oMboXL.png",
       "category": "news",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -10173,7 +10161,7 @@
       "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
       "logoUrl": "https://i.imgur.com/FxDBbpz.jpeg",
       "category": "kids,religious",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -10185,7 +10173,7 @@
       "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
       "logoUrl": "https://i.imgur.com/EO6cYUI.png",
       "category": "religious",
-      "language": "tgl",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -10320,7 +10308,7 @@
       "language": "swa",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "GreatEntertainmentTelevision.us",
@@ -10449,7 +10437,7 @@
       "streamUrl": "https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/5cFLWKO.png",
       "category": "general",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -10509,7 +10497,7 @@
       "streamUrl": "https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png",
       "category": "general",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -10545,7 +10533,7 @@
       "streamUrl": "http://213.91.179.28:8000/play/a03r",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
       "category": "documentary",
-      "language": "eng",
+      "language": "bul",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -10557,10 +10545,10 @@
       "streamUrl": "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8",
       "logoUrl": "https://i.imgur.com/bM4VZDH.png",
       "category": "general",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "HallmarkMoviesMore.us",
@@ -10668,7 +10656,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "HasbroLegends.us",
@@ -10872,7 +10860,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvguide.com",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "HistoryAsia.us",
@@ -10905,7 +10893,7 @@
       "streamUrl": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
       "category": "documentary",
-      "language": "tel",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -10953,7 +10941,7 @@
       "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8",
       "logoUrl": "https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj",
       "category": "culture",
-      "language": "vie",
+      "language": "hmn",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -11073,7 +11061,7 @@
       "streamUrl": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
       "logoUrl": "https://i.imgur.com/jaIdkbz.png",
       "category": "business",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -11172,7 +11160,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvpassport.com",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "HopeChannelPhilippines.ph",
@@ -11181,7 +11169,7 @@
       "streamUrl": "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8",
       "logoUrl": "https://i.imgur.com/LB2vmMt.png",
       "category": "religious",
-      "language": "ceb",
+      "language": "fil",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -11217,7 +11205,7 @@
       "streamUrl": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
       "logoUrl": "https://i.imgur.com/VYorU1L.png",
       "category": "religious",
-      "language": "tam",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -11277,7 +11265,7 @@
       "streamUrl": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "logoUrl": "https://ibb.co/Ng5nkX6F",
       "category": "",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -11409,7 +11397,7 @@
       "streamUrl": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8",
       "logoUrl": "https://i.imgur.com/R6jWcqz.png",
       "category": "series",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -11433,7 +11421,7 @@
       "streamUrl": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png",
       "category": "",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -11604,7 +11592,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "INFAST.nl",
@@ -11781,7 +11769,7 @@
       "streamUrl": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/nUlZvSe.png",
       "category": "religious",
-      "language": "ara",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
       "enabled": true
@@ -12093,7 +12081,7 @@
       "streamUrl": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/SqyXtgK.png",
       "category": "general",
-      "language": "kaz",
+      "language": "rus",
       "hasSubtitles": false,
       "epgSource": "galamtv.kz",
       "enabled": true
@@ -12117,10 +12105,10 @@
       "streamUrl": "http://212.5.144.156:8080/jimjam/index.m3u8",
       "logoUrl": "https://i.imgur.com/ODhkYyx.png",
       "category": "kids",
-      "language": "slk",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "m.tv.sms.cz",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "JoelOsteenNetwork.us",
@@ -12189,7 +12177,7 @@
       "streamUrl": "https://jtbsclassic.dpdns.org/live.m3u8",
       "logoUrl": "https://jtbsclassic.dpdns.org/logo.png",
       "category": "religious,culture",
-      "language": "ben",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -12285,7 +12273,7 @@
       "streamUrl": "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8",
       "logoUrl": "https://i.ibb.co/KzQzd3Tw/kantipurmaxhd.png",
       "category": "movies",
-      "language": "eng",
+      "language": "mai",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -12297,7 +12285,7 @@
       "streamUrl": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
       "logoUrl": "https://i.imgur.com/HEVo2Gc.png",
       "category": "general",
-      "language": "eng",
+      "language": "mai",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -12357,7 +12345,7 @@
       "streamUrl": "http://66.242.170.53/hls/live/temp/index.m3u8",
       "logoUrl": "https://i.imgur.com/6lklsyN.png",
       "category": "general,religious",
-      "language": "eng",
+      "language": "aii",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -12381,7 +12369,7 @@
       "streamUrl": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
       "logoUrl": "https://i.imgur.com/PsYPzNc.png",
       "category": "entertainment",
-      "language": "kin",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -12549,7 +12537,7 @@
       "streamUrl": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd",
       "logoUrl": "https://i.imgur.com/qJSvxE2.png",
       "category": "kids",
-      "language": "lit",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "cgates.lt",
       "enabled": false
@@ -12561,7 +12549,7 @@
       "streamUrl": "http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8",
       "logoUrl": "https://i.imgur.com/wkzwXFO.png",
       "category": "culture",
-      "language": "eng",
+      "language": "hye",
       "hasSubtitles": false,
       "epgSource": "tvtv.us",
       "enabled": true
@@ -12573,10 +12561,10 @@
       "streamUrl": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8",
       "logoUrl": "https://i.imgur.com/Spu4s89.png",
       "category": "culture",
-      "language": "eng",
+      "language": "hye",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "KingsviewTV.ng",
@@ -12609,7 +12597,7 @@
       "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=9901",
       "logoUrl": "https://i.imgur.com/zWcUAdb.png",
       "category": "entertainment",
-      "language": "ind",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "maxstream.tv",
       "enabled": true
@@ -12681,7 +12669,7 @@
       "streamUrl": "https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/660d667519ca71000849a1e1/colorLogoPNG.png",
       "category": "cooking,lifestyle",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -12729,7 +12717,7 @@
       "streamUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
       "logoUrl": "https://i.imgur.com/M1Ee79b.png",
       "category": "sports",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "distro.tv",
       "enabled": true
@@ -12837,7 +12825,7 @@
       "streamUrl": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
       "logoUrl": "https://i.imgur.com/R1hGX1d.png",
       "category": "sports",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -12945,7 +12933,7 @@
       "streamUrl": "https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/654a3fe6986ad20008a42add/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -12960,7 +12948,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "LatestTV.uk",
@@ -13053,7 +13041,7 @@
       "streamUrl": "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/n24MrsX.png",
       "category": "legislative",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "tvpassport.com",
       "enabled": false
@@ -13101,7 +13089,7 @@
       "streamUrl": "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
       "logoUrl": "https://i.imgur.com/2igwi7g.png",
       "category": "news",
-      "language": "spa",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -13173,7 +13161,7 @@
       "streamUrl": "http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
       "category": "entertainment",
-      "language": "ind",
+      "language": "tha",
       "hasSubtitles": false,
       "epgSource": "content.astro.com.my",
       "enabled": false
@@ -13437,7 +13425,7 @@
       "streamUrl": "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
       "logoUrl": "https://i.imgur.com/7j8Lnog.png",
       "category": "general",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -13461,7 +13449,7 @@
       "streamUrl": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
       "logoUrl": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
       "category": "outdoor",
-      "language": "zho",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "dsmart.com.tr",
       "enabled": true
@@ -13497,7 +13485,7 @@
       "streamUrl": "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/RBcD49X.png",
       "category": "documentary",
-      "language": "ita",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": false
@@ -13569,7 +13557,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c19b7785706b00072d421a/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -13605,7 +13593,7 @@
       "streamUrl": "http://103.154.3.101:5001/live/1736.m3u8",
       "logoUrl": "https://i.imgur.com/24ehonx.png",
       "category": "lifestyle",
-      "language": "rus",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
       "enabled": false
@@ -13653,7 +13641,7 @@
       "streamUrl": "https://htvmada.mada.ps:4443/maannews/index.m3u8",
       "logoUrl": "https://i.imgur.com/hRFa03k.png",
       "category": "news",
-      "language": "heb",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -13785,7 +13773,7 @@
       "streamUrl": "https://stream.kaztrk.kz/regional/mangystautv/index.m3u8",
       "logoUrl": "https://i.imgur.com/9JfLseu.png",
       "category": "general",
-      "language": "kaz",
+      "language": "rus",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": false
@@ -13881,7 +13869,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoPNG.png",
       "category": "cooking,lifestyle",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -13893,7 +13881,7 @@
       "streamUrl": "https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8",
       "logoUrl": "https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png",
       "category": "cooking,education",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -13965,7 +13953,7 @@
       "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8",
       "logoUrl": "https://i.imgur.com/CiA3plN.png",
       "category": "general",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "shahid.mbc.net",
       "enabled": true
@@ -13977,7 +13965,7 @@
       "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
       "logoUrl": "https://i.imgur.com/PVt8OPN.png",
       "category": "kids",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "shahid.mbc.net",
       "enabled": true
@@ -14001,7 +13989,7 @@
       "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
       "logoUrl": "https://i.imgur.com/TTAGFHG.png",
       "category": "movies",
-      "language": "ara",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "elcinema.com",
       "enabled": true
@@ -14040,7 +14028,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "MCITelevision.co",
@@ -14145,7 +14133,7 @@
       "streamUrl": "https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/63e3b33e8795f300087e6a46/colorLogoPNG.png",
       "category": "cooking,lifestyle",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -14181,7 +14169,7 @@
       "streamUrl": "https://mmtvs.exliatycl.online/mchannel/stream.m3u8",
       "logoUrl": "https://i.imgur.com/6PcdTZ2.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "mya",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -14253,7 +14241,7 @@
       "streamUrl": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
       "logoUrl": "https://i.imgur.com/ppxUDxB.png",
       "category": "entertainment",
-      "language": "mal",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "mewatch.sg",
       "enabled": true
@@ -14316,7 +14304,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "MidpenMediaCenterChannel28.us",
@@ -14328,7 +14316,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "MidpenMediaCenterChannel29.us",
@@ -14340,7 +14328,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "MidpenMediaCenterChannel30.us",
@@ -14352,7 +14340,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "MidpenMediaCenterChannel75.us",
@@ -14364,7 +14352,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "MidsomerMurders.us",
@@ -14385,7 +14373,7 @@
       "streamUrl": "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/xBlYirh.jpeg",
       "category": "general",
-      "language": "ceb",
+      "language": "tgl",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -14445,7 +14433,7 @@
       "streamUrl": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/B5mKwF6.png",
       "category": "religious",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -14505,7 +14493,7 @@
       "streamUrl": "https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/643814ef479f6400086ff043/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -14721,7 +14709,7 @@
       "streamUrl": "http://live.greektv.ca/hls1/greektv.m3u8",
       "logoUrl": "https://i.imgur.com/Y5YnUit.png",
       "category": "culture",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -14841,7 +14829,7 @@
       "streamUrl": "https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8",
       "logoUrl": "https://i.imgur.com/hTDvXxZ.png",
       "category": "series",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -14889,7 +14877,7 @@
       "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/NIVhISa.png",
       "category": "movies",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "shahid.mbc.net",
       "enabled": true
@@ -14901,7 +14889,7 @@
       "streamUrl": "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/0sfk3yp.png",
       "category": "movies",
-      "language": "deu",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -14925,7 +14913,7 @@
       "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/JWihdcl.png",
       "category": "movies",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "shahid.mbc.net",
       "enabled": true
@@ -14937,7 +14925,7 @@
       "streamUrl": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
       "category": "animation,kids",
-      "language": "ita",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -15021,7 +15009,7 @@
       "streamUrl": "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/bYiRfAg.png",
       "category": "religious",
-      "language": "ben",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "sky.com",
       "enabled": true
@@ -15033,7 +15021,7 @@
       "streamUrl": "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/aVts0sz.png",
       "category": "religious",
-      "language": "ben",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15045,7 +15033,7 @@
       "streamUrl": "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/lmVeQQX.png",
       "category": "religious",
-      "language": "swa",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15057,7 +15045,7 @@
       "streamUrl": "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/9Cobb2i.png",
       "category": "religious",
-      "language": "swa",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15069,7 +15057,7 @@
       "streamUrl": "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/nhCNPJI.png",
       "category": "religious",
-      "language": "ben",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15081,7 +15069,7 @@
       "streamUrl": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/3Nl8Tpu.png",
       "category": "religious",
-      "language": "tam",
+      "language": "mal",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15153,7 +15141,7 @@
       "streamUrl": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8",
       "logoUrl": "https://i.imgur.com/AOaZmlS.png",
       "category": "music",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -15177,7 +15165,7 @@
       "streamUrl": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8",
       "logoUrl": "https://i.imgur.com/y29cMbx.png",
       "category": "entertainment",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15189,7 +15177,7 @@
       "streamUrl": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
       "category": "music",
-      "language": "por",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -15213,7 +15201,7 @@
       "streamUrl": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8",
       "logoUrl": "https://i.imgur.com/dD7WbQC.png",
       "category": "series",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -15309,7 +15297,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
       "category": "entertainment",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -15333,7 +15321,7 @@
       "streamUrl": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15357,7 +15345,7 @@
       "streamUrl": "https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8",
       "logoUrl": "https://i.imgur.com/GIKkbjT.png",
       "category": "entertainment",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -15477,7 +15465,7 @@
       "streamUrl": "https://afghantv.app/hls2/muslimnetwork/index.m3u8",
       "logoUrl": null,
       "category": "religious",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15501,7 +15489,7 @@
       "streamUrl": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
       "logoUrl": "https://i.imgur.com/nHVABXh.png",
       "category": "music",
-      "language": "kaz",
+      "language": "rus",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": false
@@ -15528,7 +15516,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "MyCinema.id",
@@ -15645,7 +15633,7 @@
       "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/fIi8o0C.png",
       "category": "relax",
-      "language": "fra",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
       "enabled": false
@@ -15669,7 +15657,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8",
       "logoUrl": "https://i.imgur.com/M8X3Kvc.png",
       "category": "animation",
-      "language": "por",
+      "language": "deu",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -15753,7 +15741,7 @@
       "streamUrl": "http://213.91.179.28:8000/play/a0ct",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
       "category": "documentary",
-      "language": "eng",
+      "language": "bul",
       "hasSubtitles": false,
       "epgSource": "tv.dir.bg",
       "enabled": true
@@ -15768,7 +15756,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvguide.com",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "NationalGeographicWild.us",
@@ -15789,7 +15777,7 @@
       "streamUrl": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/rfcJ674.png",
       "category": "culture",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -15801,7 +15789,7 @@
       "streamUrl": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/72JmyjM.png",
       "category": "documentary",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -15813,7 +15801,7 @@
       "streamUrl": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/2ByDyzL.png",
       "category": "sports",
-      "language": "ita",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": true
@@ -15825,7 +15813,7 @@
       "streamUrl": "https://str2.yodacdn.net/ntv/video.m3u8",
       "logoUrl": "https://i.imgur.com/8yLFkdE.png",
       "category": "general",
-      "language": "rus",
+      "language": "aze",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -15861,7 +15849,7 @@
       "streamUrl": "https://hls2.nbcplus.na/hls/high_nbc1.m3u8",
       "logoUrl": "https://i.imgur.com/ykQerMH.png",
       "category": "general",
-      "language": "afr",
+      "language": "deu",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -15969,7 +15957,7 @@
       "streamUrl": "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
       "category": "series",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15981,7 +15969,7 @@
       "streamUrl": "https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png",
       "category": "series",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -15993,7 +15981,7 @@
       "streamUrl": "https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png",
       "category": "series",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -16005,7 +15993,7 @@
       "streamUrl": "https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",
       "category": "series",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -16089,7 +16077,7 @@
       "streamUrl": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/7cruYvo.png",
       "category": "lifestyle",
-      "language": "tam",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -16152,7 +16140,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvtv.us",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "News12Brooklyn.us",
@@ -16164,7 +16152,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvtv.us",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "News12Conneticut.us",
@@ -16176,7 +16164,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvtv.us",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "News12HudsonValley.us",
@@ -16188,7 +16176,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvtv.us",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "News12LongIsland.us",
@@ -16200,7 +16188,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvtv.us",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "News12NewJersey.us",
@@ -16236,7 +16224,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "News12PlusHudsonValley.us",
@@ -16248,7 +16236,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "News12PlusLongIsland.us",
@@ -16284,7 +16272,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "News12Westchester.us",
@@ -16296,7 +16284,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvtv.us",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "News18AssamNorthEast.in",
@@ -16305,7 +16293,7 @@
       "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s143606_ld_h15_aa.png?lock=720x540",
       "category": "news",
-      "language": "eng",
+      "language": "asm",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -16509,7 +16497,7 @@
       "streamUrl": "https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8",
       "logoUrl": "https://i.imgur.com/UawxLTW.jpg",
       "category": "general",
-      "language": "eng",
+      "language": "kik",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -16593,7 +16581,7 @@
       "streamUrl": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
       "logoUrl": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg",
       "category": "kids",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": false
@@ -16620,7 +16608,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvguide.com",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "NickJrPlutoTV.us",
@@ -16773,7 +16761,7 @@
       "streamUrl": "https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540",
       "category": "news",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -16929,7 +16917,7 @@
       "streamUrl": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/KCNS_logo.png",
       "category": "general",
-      "language": "vie",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "tvtv.us",
       "enabled": true
@@ -16941,7 +16929,7 @@
       "streamUrl": "https://live.ntdtv.com/mllive860/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/iyFXcDy.png",
       "category": "general",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -16953,7 +16941,7 @@
       "streamUrl": "https://ntd02.akamaized.net/NTD-UK/index.m3u8",
       "logoUrl": "https://i.imgur.com/OePd5AF.png",
       "category": "news,general",
-      "language": "man",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -16989,7 +16977,7 @@
       "streamUrl": "https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
       "category": "series",
-      "language": "nor",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -17001,7 +16989,7 @@
       "streamUrl": "https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png",
       "category": "series",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -17157,7 +17145,7 @@
       "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
       "logoUrl": "https://i.imgur.com/V2jREQ5.png",
       "category": "general",
-      "language": "zho",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "rtmklik.rtm.gov.my",
       "enabled": true
@@ -17229,7 +17217,7 @@
       "streamUrl": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
       "logoUrl": "https://i.imgur.com/1omi7p8.png",
       "category": "sports",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "ayn.om",
       "enabled": true
@@ -17289,7 +17277,7 @@
       "streamUrl": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8",
       "logoUrl": "https://i.imgur.com/XsvbAWR.png",
       "category": "animation",
-      "language": "jap",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -17409,7 +17397,7 @@
       "streamUrl": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/toxFMeY.png",
       "category": "general",
-      "language": "hye",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "tv.sfr.fr",
       "enabled": true
@@ -17541,7 +17529,7 @@
       "streamUrl": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
       "logoUrl": "https://i.imgur.com/sCBbBOj.png",
       "category": "culture,music",
-      "language": "tgk",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -17601,7 +17589,7 @@
       "streamUrl": "https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/662b71658dd8160008fc3abf/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -18237,7 +18225,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
       "category": "animation",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -18309,7 +18297,7 @@
       "streamUrl": "https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8",
       "logoUrl": "https://i.imgur.com/hGdXRMd.png",
       "category": "classic",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -18669,7 +18657,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
       "logoUrl": "https://i.imgur.com/Tb4GNml.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -18729,7 +18717,7 @@
       "streamUrl": "https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/63dbe80f60bc8f0008aa7c78/colorLogoPNG.png",
       "category": "movies",
-      "language": "nor",
+      "language": "swe",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -18909,7 +18897,7 @@
       "streamUrl": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
       "logoUrl": "https://i.imgur.com/YUQL0ki.png",
       "category": "animation,kids",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -19137,7 +19125,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
       "category": "kids",
-      "language": "nor",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -19257,7 +19245,7 @@
       "streamUrl": "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png",
       "category": "documentary",
-      "language": "nor",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -19641,7 +19629,7 @@
       "streamUrl": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/JxEzgDP.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "mai",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -19665,7 +19653,7 @@
       "streamUrl": "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8",
       "logoUrl": "https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png",
       "category": "",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -19725,7 +19713,7 @@
       "streamUrl": "https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8",
       "logoUrl": "https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",
       "category": "general",
-      "language": "kaz",
+      "language": "rus",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -19749,7 +19737,7 @@
       "streamUrl": "https://player.qtv.gm/hls/live.stream.m3u8",
       "logoUrl": "https://i.imgur.com/ZsTuADb.png",
       "category": "general",
-      "language": "fuc",
+      "language": "wol",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -19905,7 +19893,7 @@
       "streamUrl": "https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/698ddf5a8c21a5f2d64c14a8/colorLogoPNG_1774610552478.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -20013,7 +20001,7 @@
       "streamUrl": "https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/ZLPwJug.png",
       "category": "religious",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -20061,7 +20049,7 @@
       "streamUrl": "https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/Meew6eX.png",
       "category": "movies",
-      "language": "ita",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -20073,7 +20061,7 @@
       "streamUrl": "https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/Meew6eX.png",
       "category": "movies",
-      "language": "ita",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -20085,7 +20073,7 @@
       "streamUrl": "https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/Meew6eX.png",
       "category": "movies",
-      "language": "ita",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -20097,7 +20085,7 @@
       "streamUrl": "https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/Meew6eX.png",
       "category": "family,movies",
-      "language": "ita",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -20109,7 +20097,7 @@
       "streamUrl": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8",
       "logoUrl": "https://i.imgur.com/Meew6eX.png",
       "category": "movies",
-      "language": "ita",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -20277,7 +20265,7 @@
       "streamUrl": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
       "logoUrl": "https://i.postimg.cc/8c78JM28/image.png",
       "category": "sports,outdoor",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -20517,7 +20505,7 @@
       "streamUrl": "https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/68dfa160cc3c6cd90404d798/colorLogoPNG_1762543256959.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -20589,7 +20577,7 @@
       "streamUrl": "https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -20673,7 +20661,7 @@
       "streamUrl": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/aeu5zIC.png",
       "category": "documentary",
-      "language": "rus",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "m.tv.sms.cz",
       "enabled": true
@@ -20709,7 +20697,7 @@
       "streamUrl": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8",
       "logoUrl": "https://i.imgur.com/MXLuUoU.png",
       "category": "",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "rthk.hk",
       "enabled": false
@@ -20721,7 +20709,7 @@
       "streamUrl": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8",
       "logoUrl": "https://i.imgur.com/2MProun.png",
       "category": "",
-      "language": "eng",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "rthk.hk",
       "enabled": false
@@ -20865,7 +20853,7 @@
       "streamUrl": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
       "logoUrl": "https://i.imgur.com/4nbGvxW.png",
       "category": "general",
-      "language": "kin",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -20925,7 +20913,7 @@
       "streamUrl": "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8",
       "logoUrl": "https://i.imgur.com/YhdnZHH.png",
       "category": "news",
-      "language": "ven",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -20973,7 +20961,7 @@
       "streamUrl": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8",
       "logoUrl": "https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png",
       "category": "religious",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -21069,7 +21057,7 @@
       "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540",
       "category": "legislative",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -21081,7 +21069,7 @@
       "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540",
       "category": "legislative",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -21105,7 +21093,7 @@
       "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
       "logoUrl": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
       "category": "culture",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "osn.com",
       "enabled": true
@@ -21141,7 +21129,7 @@
       "streamUrl": "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8",
       "logoUrl": "https://i.imgur.com/NJu6oYB.png",
       "category": "religious",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -21153,7 +21141,7 @@
       "streamUrl": "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8",
       "logoUrl": "https://i.imgur.com/NJu6oYB.png",
       "category": "religious",
-      "language": "som",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "mi.tv",
       "enabled": true
@@ -21270,7 +21258,7 @@
       "id": "ScrippsNews.us",
       "number": 1865,
       "name": "Scripps News",
-      "streamUrl": "https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8",
+      "streamUrl": "https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8",
       "logoUrl": "https://i.imgur.com/UfN6aAi.png",
       "category": "news",
       "language": "eng",
@@ -21465,7 +21453,7 @@
       "streamUrl": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/CsEElsJ.png",
       "category": "sports",
-      "language": "eng",
+      "language": "ara",
       "hasSubtitles": false,
       "epgSource": "sat.tv",
       "enabled": false
@@ -21549,7 +21537,7 @@
       "streamUrl": "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
       "logoUrl": "https://i.imgur.com/SJNDksF.png",
       "category": "general",
-      "language": "kaz",
+      "language": "rus",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -21669,7 +21657,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c19d329b8260000744331b/colorLogoPNG.png",
       "category": "cooking,lifestyle",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -21801,7 +21789,7 @@
       "streamUrl": "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8",
       "logoUrl": "https://i.imgur.com/Yg6ZWKu.png",
       "category": "general",
-      "language": "eng",
+      "language": "mlt",
       "hasSubtitles": false,
       "epgSource": "melita.com",
       "enabled": false
@@ -21909,7 +21897,7 @@
       "streamUrl": "http://38.96.178.205/SONYHD/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
       "category": "entertainment",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -21921,7 +21909,7 @@
       "streamUrl": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
       "category": "entertainment",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": false
@@ -21981,7 +21969,7 @@
       "streamUrl": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
       "category": "animation,comedy",
-      "language": "ita",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -22293,7 +22281,7 @@
       "streamUrl": "http://stream.mcquack.net/461/index.m3u8",
       "logoUrl": "https://i.imgur.com/aBY7QK4.png",
       "category": "sports",
-      "language": "ukr",
+      "language": "rus",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": true
@@ -22389,7 +22377,7 @@
       "streamUrl": "http://213.91.179.28:8000/play/a0c9",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
       "category": "movies",
-      "language": "eng",
+      "language": "bul",
       "hasSubtitles": false,
       "epgSource": "tv.dir.bg",
       "enabled": true
@@ -22413,7 +22401,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8",
       "logoUrl": "https://i.imgur.com/8cvXYiT.png",
       "category": "series",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -22929,7 +22917,7 @@
       "streamUrl": "https://136044159.r.cdnsun.net/storychannel.m3u8",
       "logoUrl": "https://i.imgur.com/ZBV6xph.png",
       "category": "culture",
-      "language": "rif",
+      "language": "taq",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -22989,7 +22977,7 @@
       "streamUrl": "http://187.102.210.46/universo/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
       "category": "",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "directv.com.uy",
       "enabled": true
@@ -23157,7 +23145,7 @@
       "streamUrl": "https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "nor",
+      "language": "swe",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -23169,7 +23157,7 @@
       "streamUrl": "https://customer-1drvoydzrkhpnbh4.cloudflarestream.com/64f76b07446d5d8801c4b9f6192ac79b/manifest/video.m3u8",
       "logoUrl": "https://i.imgur.com/fGLz34S.png",
       "category": "general",
-      "language": "eng",
+      "language": "svc",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -23385,7 +23373,7 @@
       "streamUrl": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/xP7Ehn8.png",
       "category": "cooking",
-      "language": "deu",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -23529,7 +23517,7 @@
       "streamUrl": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
       "category": "entertainment",
-      "language": "ita",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -23589,7 +23577,7 @@
       "streamUrl": "https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8",
       "logoUrl": "https://i.imgur.com/xeTtup8.png",
       "category": "entertainment",
-      "language": "acf",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -23601,7 +23589,7 @@
       "streamUrl": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/Hso9j58.png",
       "category": "general",
-      "language": "hat",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -23649,7 +23637,7 @@
       "streamUrl": "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/qvcf6QC.png",
       "category": "religious,culture",
-      "language": "ita",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -23661,7 +23649,7 @@
       "streamUrl": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/JKHEL1H.png",
       "category": "religious",
-      "language": "ita",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -23673,7 +23661,7 @@
       "streamUrl": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8",
       "logoUrl": "https://i.ibb.co/xMYMyHh/telepammmm.png",
       "category": "general",
-      "language": "hat",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -23688,7 +23676,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "Telesur.ve",
@@ -23913,7 +23901,7 @@
       "streamUrl": "https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8",
       "logoUrl": "https://i.imgur.com/dx9tt1B.png",
       "category": "series",
-      "language": "deu",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -24345,7 +24333,7 @@
       "streamUrl": "https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/yH7n2dF.png",
       "category": "family",
-      "language": "ita",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -24561,7 +24549,7 @@
       "streamUrl": "https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd",
       "logoUrl": "https://i.imgur.com/Y282owj.png",
       "category": "movies",
-      "language": "tha",
+      "language": "zho",
       "hasSubtitles": false,
       "epgSource": "cubmu.com",
       "enabled": false
@@ -24585,7 +24573,7 @@
       "streamUrl": "https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/69256bd7db5cc2f81d8a1a08/colorLogoPNG_1764256965972.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -24597,7 +24585,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png",
       "category": "cooking,lifestyle",
-      "language": "eng",
+      "language": "dan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -24621,7 +24609,7 @@
       "streamUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s144006_ld_h15_aa.png?lock=720x540",
       "category": "news",
-      "language": "eng",
+      "language": "hin",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": false
@@ -24993,10 +24981,10 @@
       "streamUrl": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
       "logoUrl": "https://i.imgur.com/kPUkoS7.png",
       "category": "music",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "TraceGospel.fr",
@@ -25005,10 +24993,10 @@
       "streamUrl": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
       "logoUrl": "https://i.imgur.com/X0UmU3K.png",
       "category": "music,religious",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "TraceJama.fr",
@@ -25020,7 +25008,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "dstv.com",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "TraceMziki.fr",
@@ -25032,7 +25020,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "TraceNaija.fr",
@@ -25044,7 +25032,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "dstv.com",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "TraceNgoma.fr",
@@ -25056,7 +25044,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "TraceSportStars.fr",
@@ -25065,7 +25053,7 @@
       "streamUrl": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/FabFP5A.png",
       "category": "sports",
-      "language": "rus",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": true
@@ -25080,7 +25068,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "TraceUrban.fr",
@@ -25089,10 +25077,10 @@
       "streamUrl": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
       "logoUrl": "https://i.imgur.com/DLIbUMx.png",
       "category": "music",
-      "language": "por",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "canalplus.com",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "Trailers.es",
@@ -25101,7 +25089,7 @@
       "streamUrl": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/RwZ1hCN.png",
       "category": "news",
-      "language": "ita",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -25137,7 +25125,7 @@
       "streamUrl": "http://88.212.7.14/live/travel_xp_4k/index.m3u8",
       "logoUrl": "https://i.imgur.com/HUWEnc5.png",
       "category": "travel",
-      "language": "ben",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -25341,7 +25329,7 @@
       "streamUrl": "https://alpha.tv.online.tm/hls/ch007.m3u8",
       "logoUrl": "https://i.imgur.com/iBBpBx4.png",
       "category": "general",
-      "language": "fra",
+      "language": "tuk",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -25425,7 +25413,7 @@
       "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
       "logoUrl": "https://i.imgur.com/LGEdeyJ.png",
       "category": "general",
-      "language": "zho",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "content.astro.com.my",
       "enabled": true
@@ -25473,7 +25461,7 @@
       "streamUrl": "http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
       "logoUrl": "https://i.imgur.com/mfZOYZI.png",
       "category": "",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "tvguide.myjcom.jp",
       "enabled": false
@@ -25485,7 +25473,7 @@
       "streamUrl": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8",
       "logoUrl": "https://i.imgur.com/M9WTiBP.png",
       "category": "",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -25533,7 +25521,7 @@
       "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8",
       "logoUrl": "https://i.imgur.com/fvGlwKo.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -25557,7 +25545,7 @@
       "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
       "logoUrl": "https://i.imgur.com/fvGlwKo.png",
       "category": "religious",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -25641,7 +25629,7 @@
       "streamUrl": "http://80.79.6.221:25461/smash/public/19",
       "logoUrl": "https://i.imgur.com/V0iMsED.png",
       "category": "general",
-      "language": "eng",
+      "language": "mlt",
       "hasSubtitles": false,
       "epgSource": "melita.com",
       "enabled": false
@@ -26229,7 +26217,7 @@
       "streamUrl": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
       "logoUrl": "https://i.ibb.co/Gf9VH1VN/TV-Today-Janakpur.png",
       "category": "entertainment,general",
-      "language": "eng",
+      "language": "mai",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -26256,7 +26244,7 @@
       "language": "yor",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "TwojaTV.pl",
@@ -26337,7 +26325,7 @@
       "streamUrl": "https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8",
       "logoUrl": "https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png",
       "category": "series",
-      "language": "nor",
+      "language": "swe",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -26817,7 +26805,7 @@
       "streamUrl": "http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg",
       "category": "series",
-      "language": "cze",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -26829,7 +26817,7 @@
       "streamUrl": "http://176.61.157.250/TV1000/index.m3u8",
       "logoUrl": "https://i.imgur.com/io0WAkA.png",
       "category": "movies",
-      "language": "lav",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": false
@@ -26841,7 +26829,7 @@
       "streamUrl": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
       "logoUrl": "https://i.imgur.com/HwsNIDK.png",
       "category": "movies",
-      "language": "rus",
+      "language": "lat",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": false
@@ -26853,7 +26841,7 @@
       "streamUrl": "http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==",
       "logoUrl": "https://i.imgur.com/qVYt8kP.png",
       "category": "movies,comedy",
-      "language": "rus",
+      "language": "lat",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": true
@@ -26865,7 +26853,7 @@
       "streamUrl": "http://92.114.85.87:8010/play/a00a/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Viasat_True_Crime_%2820.05.2026%29.png",
       "category": "",
-      "language": "cze",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -26982,13 +26970,13 @@
       "id": "VTV1.vn",
       "number": 2387,
       "name": "VTV1",
-      "streamUrl": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8",
+      "streamUrl": "https://dethich.pw/vtv1/index.m3u8",
       "logoUrl": "https://i.imgur.com/vZYlGIW.png",
       "category": "",
       "language": "vie",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "VyasChannel.in",
@@ -27069,7 +27057,7 @@
       "streamUrl": "https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8",
       "logoUrl": "https://i.imgur.com/0N7EhuD.png",
       "category": "series",
-      "language": "fra",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -27669,7 +27657,7 @@
       "streamUrl": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8",
       "logoUrl": "https://i.imgur.com/98kLMjj.png",
       "category": "sports",
-      "language": "ita",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "distro.tv",
       "enabled": true
@@ -28125,7 +28113,7 @@
       "streamUrl": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
       "category": "entertainment",
-      "language": "deu",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "tv.blue.ch",
       "enabled": true
@@ -28149,7 +28137,7 @@
       "streamUrl": "https://live.azenagroup.com/zenith/index.ll.m3u8",
       "logoUrl": "https://znth.tv/images/logo.png",
       "category": "general,culture",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -28185,7 +28173,7 @@
       "streamUrl": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
       "logoUrl": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png",
       "category": "series",
-      "language": "deu",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
       "enabled": true
@@ -28257,7 +28245,7 @@
       "streamUrl": "http://91.228.35.249:8001/1:0:1:72:2FA8:13E:820000:0:0:0",
       "logoUrl": "https://tv.equalit.ie/wp-content/uploads/2024/12/cropped-logo.png",
       "category": "general",
-      "language": "ukr",
+      "language": "rus",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -28329,7 +28317,7 @@
       "streamUrl": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png",
       "category": "legislative",
-      "language": "ukr",
+      "language": "rus",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -28362,13 +28350,13 @@
       "id": "MoviesNow.in",
       "number": 2542,
       "name": "Movies Now",
-      "streamUrl": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
+      "streamUrl": "http://27.124.71.27/Movies_Now/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540",
       "category": "movies",
       "language": "tam",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "Cinemax.us",
@@ -28401,7 +28389,7 @@
       "streamUrl": "http://45.171.64.30:6060/play/a032/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
       "category": "entertainment",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "gatotv.com",
       "enabled": true
@@ -28449,7 +28437,7 @@
       "streamUrl": "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png",
       "category": "general",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "ontvtonight.com",
       "enabled": true
@@ -28461,10 +28449,10 @@
       "streamUrl": "http://212.5.144.156/tnt/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
       "category": "general",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "gatotv.com",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "TNTLatinAmerica.us",
@@ -28473,7 +28461,7 @@
       "streamUrl": "http://45.134.141.161:2200/ARG/TNT/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
       "category": "",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "gatotv.com",
       "enabled": true
@@ -28485,7 +28473,7 @@
       "streamUrl": "http://168.196.127.137:6001/play/a095/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
       "category": "series",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "meuguia.tv",
       "enabled": false
@@ -28497,7 +28485,7 @@
       "streamUrl": "http://45.134.141.161:2200/ARG/Tooncast/index.m3u8",
       "logoUrl": "https://i.imgur.com/3yXRbQy.png",
       "category": "animation,kids",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "cableplus.com.uy",
       "enabled": true
@@ -28572,7 +28560,7 @@
       "language": "spa",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "FoodNetwork.us",
@@ -28608,7 +28596,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvguide.com",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "OWN.us",
@@ -28680,7 +28668,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "i.mjh.nz",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "E4.uk",
@@ -28797,7 +28785,7 @@
       "streamUrl": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
       "logoUrl": "https://i.imgur.com/dfxefQw.png",
       "category": "news",
-      "language": "kor",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": true
@@ -28812,7 +28800,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": "tvguide.com",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "DMAX.it",
@@ -28869,7 +28857,7 @@
       "streamUrl": "http://213.91.179.28:8000/play/a05y",
       "logoUrl": "https://i.imgur.com/olQJgm7.png",
       "category": "sports",
-      "language": "eng",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": "canalplus.com",
       "enabled": true
@@ -28881,7 +28869,7 @@
       "streamUrl": "http://213.91.179.28:8000/play/a04b",
       "logoUrl": "https://i.imgur.com/f56dHgR.png",
       "category": "sports",
-      "language": "eng",
+      "language": "fin",
       "hasSubtitles": false,
       "epgSource": "canalplus.com",
       "enabled": true
@@ -28929,7 +28917,7 @@
       "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=215",
       "logoUrl": "https://i.imgur.com/pux6WN8.png",
       "category": "cooking",
-      "language": "ind",
+      "language": "vie",
       "hasSubtitles": false,
       "epgSource": "content.astro.com.my",
       "enabled": true
@@ -28962,13 +28950,13 @@
       "id": "CartoonNetwork.us",
       "number": 2602,
       "name": "Cartoon Network",
-      "streamUrl": "http://212.5.144.156:8080/cartoon/index.m3u8",
+      "streamUrl": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "category": "animation,kids",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "CartoonNetworkCEE.uk",
@@ -28977,7 +28965,7 @@
       "streamUrl": "http://213.91.179.28:8000/play/a08g",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "category": "animation,kids",
-      "language": "deu",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "horizon.tv",
       "enabled": true
@@ -29001,7 +28989,7 @@
       "streamUrl": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
       "logoUrl": "https://freem3u.xyz/static/images/global/hbo.png",
       "category": "movies",
-      "language": "vie",
+      "language": "cmn",
       "hasSubtitles": false,
       "epgSource": "content.astro.com.my",
       "enabled": true
@@ -29049,7 +29037,7 @@
       "streamUrl": "http://88.212.7.14/live/id_hun/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
       "category": "documentary",
-      "language": "ces",
+      "language": "hun",
       "hasSubtitles": false,
       "epgSource": "musor.tv",
       "enabled": true
@@ -29073,7 +29061,7 @@
       "streamUrl": "http://213.91.179.28:8000/play/a0c7",
       "logoUrl": "https://i.imgur.com/9MrzLb1.png",
       "category": "kids",
-      "language": "deu",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "melita.com",
       "enabled": true
@@ -29097,7 +29085,7 @@
       "streamUrl": "https://vmttv.dpdns.org/tv360?id=davinci-hd",
       "logoUrl": "https://i.imgur.com/iBx7K1M.png",
       "category": "education",
-      "language": "ind",
+      "language": "vie",
       "hasSubtitles": false,
       "epgSource": "maxstream.tv",
       "enabled": true
@@ -29121,7 +29109,7 @@
       "streamUrl": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
       "logoUrl": "https://i.imgur.com/pH6ao2T.png",
       "category": "animation,kids",
-      "language": "kan",
+      "language": "tel",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": false
@@ -29133,7 +29121,7 @@
       "streamUrl": "http://202.150.165.66:8088/play/104-Cinemax/index.m3u8",
       "logoUrl": "https://freem3u.xyz/static/images/global/cinemax.png",
       "category": "movies",
-      "language": "vie",
+      "language": "cmn",
       "hasSubtitles": false,
       "epgSource": "clickthecity.com",
       "enabled": true
@@ -29205,7 +29193,7 @@
       "streamUrl": "http://125.227.210.55:1004/VideoInput/play.ts",
       "logoUrl": "https://i.imgur.com/foLICwL.png",
       "category": "entertainment",
-      "language": "eng",
+      "language": "cmn",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -29217,7 +29205,7 @@
       "streamUrl": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
       "category": "entertainment",
-      "language": "ben",
+      "language": "tel",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": false
@@ -29337,7 +29325,7 @@
       "streamUrl": "https://tv2-stream.rtnb.bi/hls/master.m3u8",
       "logoUrl": "https://i.imgur.com/vNCVLuO.png",
       "category": "entertainment",
-      "language": "swa",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -29349,7 +29337,7 @@
       "streamUrl": "https://tv1-stream.rtnb.bi/hls/master.m3u8",
       "logoUrl": "https://i.imgur.com/xfR5P9F.png",
       "category": "general",
-      "language": "swa",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -29493,7 +29481,7 @@
       "streamUrl": "https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/DiIei9F.png",
       "category": "sports",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -29541,7 +29529,7 @@
       "streamUrl": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/KT4tdQs.png",
       "category": "kids",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "mi.tv",
       "enabled": true
@@ -29769,7 +29757,7 @@
       "streamUrl": "http://149.62.177.107:9999/TFX/index.m3u8",
       "logoUrl": "https://i.imgur.com/d91GcVf.png",
       "category": "",
-      "language": "eng",
+      "language": "fra",
       "hasSubtitles": false,
       "epgSource": "canalplus.com",
       "enabled": false
@@ -29868,7 +29856,7 @@
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "HGTV.nz",
@@ -30033,7 +30021,7 @@
       "streamUrl": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
       "logoUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
       "category": "religious",
-      "language": "urd",
+      "language": "pan",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": false
@@ -30066,13 +30054,13 @@
       "id": "Telecyan.us",
       "number": 2728,
       "name": "Telecyan",
-      "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8",
+      "streamUrl": "https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/9BnHCj5.png",
       "category": "series,comedy",
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "TNTSports1.uk",
@@ -30177,7 +30165,7 @@
       "streamUrl": "http://37.49.224.5/stream/9/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png",
       "category": "science",
-      "language": "ita",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "entertainment.ie",
       "enabled": false
@@ -30381,7 +30369,7 @@
       "streamUrl": "http://193.33.39.108:9009/play/a024",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
       "category": "movies",
-      "language": "ron",
+      "language": "pol",
       "hasSubtitles": false,
       "epgSource": "horizon.tv",
       "enabled": true
@@ -30405,7 +30393,7 @@
       "streamUrl": "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8",
       "logoUrl": "https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png",
       "category": "music",
-      "language": "ron",
+      "language": "ita",
       "hasSubtitles": false,
       "epgSource": null,
       "enabled": true
@@ -30513,33 +30501,9 @@
       "streamUrl": "https://vidl.youniverse.name:5050/MSTV/czech_360p/playlist.m3u8",
       "logoUrl": "https://i.imgur.com/2RxQNm6.png",
       "category": "religious",
-      "language": "ces",
+      "language": "ron",
       "hasSubtitles": false,
       "epgSource": null,
-      "enabled": false
-    },
-    {
-      "id": "MoviesNowPlus.in",
-      "number": 2766,
-      "name": "Movies Now +",
-      "streamUrl": "http://103.135.253.32:8080/MN-PLUS/index.m3u8",
-      "logoUrl": "https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540",
-      "category": "movies",
-      "language": "tam",
-      "hasSubtitles": false,
-      "epgSource": "airtelxstream.in",
-      "enabled": false
-    },
-    {
-      "id": "NationalGeographic.in",
-      "number": 2767,
-      "name": "National Geographic",
-      "streamUrl": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8",
-      "logoUrl": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg",
-      "category": "documentary",
-      "language": "tam",
-      "hasSubtitles": false,
-      "epgSource": "airtelxstream.in",
       "enabled": false
     },
     {
@@ -30573,19 +30537,7 @@
       "streamUrl": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "logoUrl": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
       "category": "animation,kids",
-      "language": "ben",
-      "hasSubtitles": false,
-      "epgSource": "airtelxstream.in",
-      "enabled": false
-    },
-    {
-      "id": "StarMovies.in",
-      "number": 2771,
-      "name": "Star Movies",
-      "streamUrl": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
-      "logoUrl": "https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",
-      "category": "movies",
-      "language": "tam",
+      "language": "tel",
       "hasSubtitles": false,
       "epgSource": "airtelxstream.in",
       "enabled": false
@@ -30601,90 +30553,6 @@
       "hasSubtitles": false,
       "epgSource": "tapdmv.com",
       "enabled": true
-    },
-    {
-      "id": "beINSports2.qa",
-      "number": 2775,
-      "name": "beIN Sports 2",
-      "streamUrl": "http://86.192.195.47:9034/stream/2/index.m3u8",
-      "logoUrl": "https://i.imgur.com/vUJZSvs.png",
-      "category": "sports",
-      "language": "tur",
-      "hasSubtitles": false,
-      "epgSource": "bein.com",
-      "enabled": false
-    },
-    {
-      "id": "beINSports3.qa",
-      "number": 2776,
-      "name": "beIN Sports 3",
-      "streamUrl": "http://86.192.195.47:9034/stream/4/index.m3u8",
-      "logoUrl": "https://i.imgur.com/UYSMao3.png",
-      "category": "sports",
-      "language": "tur",
-      "hasSubtitles": false,
-      "epgSource": "bein.com",
-      "enabled": false
-    },
-    {
-      "id": "beINSports4.qa",
-      "number": 2777,
-      "name": "beIN Sports 4",
-      "streamUrl": "http://86.192.195.47:9034/stream/5/index.m3u8",
-      "logoUrl": "https://i.imgur.com/vwAgJNi.png",
-      "category": "sports",
-      "language": "tur",
-      "hasSubtitles": false,
-      "epgSource": "bein.com",
-      "enabled": false
-    },
-    {
-      "id": "beINSports5.qa",
-      "number": 2778,
-      "name": "beIN Sports 5",
-      "streamUrl": "http://86.192.195.47:9034/stream/6/index.m3u8",
-      "logoUrl": "https://i.imgur.com/2Rha5aY.png",
-      "category": "sports",
-      "language": "tur",
-      "hasSubtitles": false,
-      "epgSource": "bein.com",
-      "enabled": false
-    },
-    {
-      "id": "beINSports6.qa",
-      "number": 2779,
-      "name": "beIN Sports 6",
-      "streamUrl": "http://86.192.195.47:9034/stream/7/index.m3u8",
-      "logoUrl": "https://i.imgur.com/0wBdLYb.png",
-      "category": "sports",
-      "language": "eng",
-      "hasSubtitles": false,
-      "epgSource": "bein.com",
-      "enabled": false
-    },
-    {
-      "id": "beINSports7.qa",
-      "number": 2780,
-      "name": "beIN Sports 7",
-      "streamUrl": "http://86.192.195.47:9034/stream/8/index.m3u8",
-      "logoUrl": "https://i.imgur.com/iODFwZi.png",
-      "category": "sports",
-      "language": "eng",
-      "hasSubtitles": false,
-      "epgSource": "bein.com",
-      "enabled": false
-    },
-    {
-      "id": "beINSports8.qa",
-      "number": 2781,
-      "name": "beIN Sports 8",
-      "streamUrl": "http://86.192.195.47:9034/stream/9/index.m3u8",
-      "logoUrl": "https://i.imgur.com/CaFEyVn.png",
-      "category": "sports",
-      "language": "eng",
-      "hasSubtitles": false,
-      "epgSource": "bein.com",
-      "enabled": false
     },
     {
       "id": "DAZN2.uk",
@@ -30705,7 +30573,7 @@
       "streamUrl": "http://45.186.240.164:9000/stream/54/index.m3u8",
       "logoUrl": "https://i.imgur.com/yXAtmI6.png",
       "category": "general",
-      "language": "por",
+      "language": "spa",
       "hasSubtitles": false,
       "epgSource": "chaines-tv.orange.fr",
       "enabled": false
@@ -30729,7 +30597,7 @@
       "streamUrl": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8",
       "logoUrl": "https://i.imgur.com/0o3zjC7.png",
       "category": "sports",
-      "language": "fra",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "epg.iptvx.one",
       "enabled": true
@@ -30813,7 +30681,7 @@
       "streamUrl": "http://103.253.74.210:7070/stream/108/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
       "category": "lifestyle",
-      "language": "tha",
+      "language": "eng",
       "hasSubtitles": false,
       "epgSource": "content.astro.com.my",
       "enabled": true
@@ -30921,6 +30789,66 @@
       "streamUrl": "https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8",
       "logoUrl": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
       "category": "kids",
+      "language": "eng",
+      "hasSubtitles": false,
+      "epgSource": null,
+      "enabled": true
+    },
+    {
+      "id": "BlessTV.jm",
+      "number": 2802,
+      "name": "Bless TV",
+      "streamUrl": "https://932y483pdjv8-hls-live.5centscdn.com/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "logoUrl": "https://i.imgur.com/USshSMj.png",
+      "category": "religious",
+      "language": "eng",
+      "hasSubtitles": false,
+      "epgSource": null,
+      "enabled": true
+    },
+    {
+      "id": "Mezzo.fr",
+      "number": 2803,
+      "name": "Mezzo",
+      "streamUrl": "http://92.180.26.103/stream/62/index.m3u8",
+      "logoUrl": "https://i.imgur.com/auNdGeW.png",
+      "category": "music",
+      "language": "eng",
+      "hasSubtitles": false,
+      "epgSource": "canalplus.com",
+      "enabled": true
+    },
+    {
+      "id": "OnPatrolLive.us",
+      "number": 2804,
+      "name": "On Patrol: Live",
+      "streamUrl": "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8",
+      "logoUrl": "https://i.imgur.com/OAThfQx.png",
+      "category": "series",
+      "language": "eng",
+      "hasSubtitles": false,
+      "epgSource": null,
+      "enabled": true
+    },
+    {
+      "id": "ReelzFamousInfamous.us",
+      "number": 2805,
+      "name": "Reelz Famous & Infamous",
+      "streamUrl": "https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8",
+      "logoUrl": "https://i.imgur.com/czrTtNK.png",
+      "category": "documentary",
+      "language": "eng",
+      "hasSubtitles": false,
+      "epgSource": null,
+      "enabled": true
+    },
+    {
+      "id": "ScaresbyShudder.us",
+      "number": 2806,
+      "name": "Scares by Shudder",
+      "streamUrl": "https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8",
+      "logoUrl": "https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg",
+      "category": "movies",
       "language": "eng",
       "hasSubtitles": false,
       "epgSource": null,
